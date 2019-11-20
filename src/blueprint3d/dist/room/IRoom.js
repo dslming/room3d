@@ -1,0 +1,1 @@
+//# sourceMappingURL=IRoom.js.map
