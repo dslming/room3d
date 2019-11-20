@@ -6,7 +6,8 @@ function resolve(dir) {
 
 module.exports = {
   runtimeCompiler: true,
-  publicPath: './musicPlayer/',
+  outputDir: "dist",
+  publicPath: 'muscicPlayer',
 
   chainWebpack(config) {
     config.resolve.alias

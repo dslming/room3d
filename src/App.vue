@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    dslming
+    <router-view>
+    </router-view>
   </div>
 </template>
 
