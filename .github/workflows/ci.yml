@@ -14,6 +14,6 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        BRANCH: master
+        BRANCH: ciok2
         FOLDER: dist
         BUILD_SCRIPT: npm install && npm run build
