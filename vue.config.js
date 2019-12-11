@@ -9,7 +9,7 @@ const Timestamp = new Date().getTime();
 
 module.exports = {
   runtimeCompiler: true,
-  publicPath: 'muscicPlayer',
+  publicPath: 'musicPlayer',
 
   chainWebpack(config) {
     config.resolve.alias
