@@ -23,4 +23,4 @@ export default class Blueprint3d {
         that.floorPlanner.draw();
     }
 }
-//# sourceMappingURL=blueprint3d.js.map
+//# sourceMappingURL=Blueprint3d.js.map
