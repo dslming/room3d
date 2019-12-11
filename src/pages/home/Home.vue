@@ -1,5 +1,6 @@
 <template>
   <el-container class="home">
+    123
     <el-aside width="200px" class="aside">
       <aside-menu />
     </el-aside>
