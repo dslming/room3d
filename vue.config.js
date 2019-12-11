@@ -5,6 +5,7 @@ function resolve(dir) {
 }
 
 const version = "1.0.0"
+const Timestamp = new Date().getTime();
 
 module.exports = {
   runtimeCompiler: true,
