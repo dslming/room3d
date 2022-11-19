@@ -16,7 +16,7 @@
   "homepage": "https://dslming.github.io/musicPlayer",
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.0.0",
-    "@vue/cli-service": "^4.0.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-plugin-component": "^1.1.1",
     "sass": "^1.19.0",
     "sass-loader": "^8.0.0",
